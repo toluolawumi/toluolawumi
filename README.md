@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tolu Olawumi. A Software engineer and Program Manager based in Lagos Nigeria. I am current working as a backend dev at MultiLocks Nig Ltd and as a community and content manager at GetEquity
+My name is Tolu Olawumi. A Software engineer and Program Manager based in Lagos Nigeria. I am current working as a community and content manager at GetEquity
 
 ## Technologies and Tools
 ![](https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
